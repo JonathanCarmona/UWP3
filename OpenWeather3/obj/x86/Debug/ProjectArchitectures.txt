@@ -1,0 +1,1 @@
+c:\users\jonathan\documents\visual studio 2017\Projects\OpenWeather3\OpenWeather3\OpenWeather3.csproj;x86
